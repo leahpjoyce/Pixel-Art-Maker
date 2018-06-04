@@ -1,11 +1,12 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+This game uses HTML, CSS, JavaScript, and Document Object Model.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## How to play
 
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
+1. Clone or download the repo
+2. cd repo
+3. Enter the Grid Height: and Grid Width: number you want
+4. Click Submit
+5. Pick a color
+6. Click the grid to design your canvas
